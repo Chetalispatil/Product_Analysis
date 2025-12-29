@@ -1,8 +1,8 @@
-### Product_Analysis
+###  Product_Analysis
 
 An end-to-end AI-powered Product Review Analysis system that scrapes e-commerce reviews, performs BERT-based sentiment analysis, extracts aspect-level opinions, generates visual insights, and exposes functionality through a FastAPI REST API.
 
-## Project Description
+##  Project Description
 
 This project analyzes customer product reviews to understand:
 
@@ -16,7 +16,7 @@ Actionable business insights through analytics and visualizations
 
 It supports both batch analysis of product reviews and real-time API-based review analysis.
 
-## Features
+##   Features
 
 # Amazon Review Scraper
 
